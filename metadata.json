@@ -1,0 +1,6 @@
+{
+  "name": "Nexora",
+  "description": "A sophisticated companion web browser that loads any website, dynamically monitors elements in real time, and automatically sniffs and extracts player iframe embed codes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

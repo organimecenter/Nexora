@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nexora</string>
+    <string name="empty_attribution_tag" translatable="false"></string>
+    <string name="attribution_label">Default Attribution</string>
+</resources>
